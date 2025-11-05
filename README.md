@@ -71,8 +71,8 @@ The chatbot provides accurate, syllabus-based responses to student questions wit
 
 ## 📫 Connect With Me  
 
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(You can replace this with Google Sites or Wix link)*   
-- 🐙 [GitHub](https://github.com/PrashanthManga)  
+- 🌐 [Portfolio Website](https://mangaprashanth.github.io/) *(You can replace this with Google Sites or Wix link)*   
+- 🐙 [GitHub](https://github.com/mangaprashanth)  
 - ✉️ **Email:** mangaprashanth88@gmail.com
 
 ---
