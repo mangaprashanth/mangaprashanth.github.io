@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Prashanth Manga  
-
 ### 🎯 AI/ML Enthusiast | Future Innovator  
+> “Designing intelligent systems that enhance human potential through data-driven insight.”
 
-Welcome to my digital portfolio! I’m passionate about **Artificial Intelligence, Machine Learning, and Data-Driven Innovation**.  
-My goal is to build intelligent systems that solve real-world problems and enhance human potential through automation and insight.
+---
+
+## 🔗 Quick Navigation  
+[About Me](#about-me) | [Professional Bio](#professional-bio) | [Skills](#skills--interests) | [Featured Project](#featured-project-qa-classroom-assistant-chatbot) | [Reflection](#reflection) | [Upcoming-Projects](#upcoming-projects) | [Contact](#connect-with-me)
 
 ---
 
@@ -63,9 +65,33 @@ The chatbot provides accurate, syllabus-based responses to student questions wit
 - Tested across multiple scenarios (factual, ambiguous, integrity, and hallucination stress tests).  
 - Designed as an educational aid that guides rather than provides direct answers.  
 
-📘 **Documentation Summary:** The chatbot follows a closed-domain retrieval policy, guiding students using only course materials such as *Introduction to Machine Learning with Python*. It integrates ethical AI principles, provides clear instructions, and ensures transparency in responses.
+📘 **Documentation Summary:**  
+The chatbot follows a closed-domain retrieval policy, guiding students using only course materials such as *Introduction to Machine Learning with Python*. It integrates ethical AI principles, provides clear instructions, and ensures transparency in responses.
 
 🔗 **[Click here to view the chatbot](https://mizou.com/login-thread?ID=0qA7x3BspgrfLAlASJHQ6hKqxyOPLPFjxwL24nPA8KE-100723)**  
+
+---
+
+### 🖼️ Project Demo Preview  
+
+![Chatbot Interface](link-to-screenshot.png)  
+*Sample conversation illustrating the Q/A Classroom Assistant Chatbot in action.*
+
+---
+
+## 🧭 Reflection  
+
+Building the **Classroom Assistant Chatbot** reinforced my understanding of applying **Design Thinking** in AI.  
+Initially, I focused on technical precision, but through user testing, I learned the importance of **conversational empathy and clarity**.  
+The process strengthened my ability to combine **ethical principles**, **technical skills**, and **iterative improvement** in AI-driven learning environments.
+
+---
+
+## 🚀 Upcoming Projects  
+
+- 🩺 **AI-Powered Health Insight Dashboard** *(in progress)*  
+- 🤖 **Reinforcement Learning for Adaptive Tutoring Systems**  
+- 🧠 **LLM Prompt Engineering Toolkit**  
 
 ---
 
