@@ -74,7 +74,7 @@ The chatbot follows a closed-domain retrieval policy, guiding students using onl
 
 ### 🖼️ Project Demo Preview  
 
-![Chatbot Interface](link-to-screenshot.png)  
+![Chatbot Interface](Chatbot screenshot.png)  
 *Sample conversation illustrating the Q/A Classroom Assistant Chatbot in action.*
 
 ---
