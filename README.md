@@ -106,7 +106,7 @@ Presenting complex AI differences simply and visually for non-technical audience
 - Simplified the contrast through color-coded visual storytelling.  
 
 🖼️ **Visual Comparison:**  
-![ML vs DL Comparison] (ML_vs_DL.png)  
+![ML vs DL Comparison] (ML vs DL.png)  
 *Human-designed illustration comparing Machine Learning and Deep Learning.*
 
 📄 **Summary:**  
