@@ -121,6 +121,26 @@ Presenting complex AI differences simply and visually for non-technical audience
 **Key Takeaway:**  
 ➡️ Deep Learning is a **subset of Machine Learning**, differing primarily in how it learns and represents data.
 
+### 3. Adapting to Challenges – Leadership Reflection Artifact
+
+**Overview:**  
+A reflective leadership piece inspired by the stories of **Moses** and **Esther**, focusing on how biblical principles can guide adaptive leadership in modern contexts—especially during periods of uncertainty and technological transition.  [oai_citation:0‡Adapting to Challenges.docx](sediment://file_0000000006ac71f5990b3b2b761806f6)
+
+**Challenges:**  
+- Leading a team through rapid organizational and technological changes driven by **AI and machine learning**, while addressing mixed emotions—enthusiasm from some and anxiety from others.  
+- Facing a high-stakes decision about transitioning a major workflow to an **AI-led model**, with unclear outcomes and significant risk.
+
+**Solutions:**  
+- Drawing from **Moses’ example**, adopted a leadership posture centered on humility, seeking God’s wisdom, listening attentively, and embracing preparedness even when feeling unqualified.  
+- Following **Esther’s strategic approach**, applied careful planning, gathered data, consulted key stakeholders, prayed for clarity, and made decisions with courage rather than avoidance.  
+- Integrated both spiritual insight and practical leadership strategies to navigate uncertainty with confidence.
+
+**Summary:**  
+This artifact demonstrates how timeless biblical leadership lessons can shape effective decision-making today. By combining humility, courage, spiritual discernment, and strategic thinking, I developed a grounded framework for leading teams through change and approaching difficult choices with confidence and integrity.
+
+📘 **Documentation:**  
+Artifact source: *Adapting to Challenges* (Reflection Assignment).  
+
 ---
 
 ## 💬 Testimonials  
