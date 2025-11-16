@@ -142,7 +142,7 @@ An intuitive and comprehensive exploration of **Deep Learning and Neural Network
 - Connected concepts to human brain processes using the Bayesian Brain Hypothesis for improved interpretability.  
 
 🖼️ **Visual Comparison:**  
-![Deep Learning Illustration](deep_learning_visual.png)  
+![Deep Learning Illustration](deep learning and neural networks.png)  
 *Representation of human neurons vs artificial neural networks, showcasing layered processing and pattern recognition.*  
 
 📄 **Summary:**  
