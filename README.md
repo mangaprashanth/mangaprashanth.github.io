@@ -135,7 +135,7 @@ It demonstrates both **technical capability and responsible AI craftsmanship**, 
 https://mizou.com/login-thread?ID=0qA7x3BspgrfLAlASJHQ6hKqxyOPLPFjxwL24nPA8KE-100723
 
 ## 🖼️ Demo Preview  
-![Chatbot Interface](Chatbot screenshot.png)  
+![Chatbot Interface](Chatbot_screenshot.png)  
 *Sample interaction showing the chatbot assisting students ethically and contextually.*
 
 ---
@@ -272,7 +272,7 @@ This artifact is highly relevant in AI education, machine learning coursework, a
 - Standard deep learning principles as taught across academic ML courses  
 
 ## 🖼️ Visual Comparison  
-![Deep Learning Illustration](deep learning and neural networks.png)  
+![Deep Learning Illustration](deep_learning_and_neural_networks.png)
 *Biological neurons vs artificial neural networks — showing layered pattern recognition.*
 
 ## 📄 Summary Table  
@@ -330,7 +330,11 @@ This artifact demonstrates the foundational knowledge required to handle messy, 
 - Connects quiz and course concepts to real-world ML challenges.  
 - Provides a structured explanation of how data imperfections propagate into model outcomes.  
 - Includes practical, solution-oriented strategies for improving data readiness.  
-- Highlights advanced concepts such as data drift, veracity, redundancy, and lineage.  
+- Highlights advanced concepts such as data drift, veracity, redundancy, and lineage.
+
+## 🖼️ Visual Comparison  
+![Data Challenges in Machine Learning](Data_Challenges_in_Machine_Learning.png)
+*Data Challenges in Machine Learning.*
 
 ## 🔗 Relevance  
 This artifact is relevant for:  
