@@ -36,6 +36,19 @@ I combine technical depth with design thinking to build AI systems that are not 
 
 ---
 
+## 🎯 Target Audience  
+
+This portfolio is designed for:
+
+- **Hiring Managers & Recruiters** seeking AI/ML, Data Science, or Software Engineering talent  
+- **Technical Interviewers** evaluating practical understanding of machine learning, deep learning, and AI ethics  
+- **AI/ML Engineers & Developers** interested in educational chatbots, conceptual ML/DL visualizations, and applied deep learning  
+- **Educators & Researchers** exploring intuitive explanations and responsible AI design frameworks  
+- **Students & Learners** looking for accessible breakdowns of ML, DL, and neural network concepts  
+- **Collaborators & Open-Source Contributors** who want to build innovative, ethical AI projects together  
+
+---
+
 ## 🛠️ Skills & Interests  
 
 ### 💻 Core Skills
