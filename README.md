@@ -126,9 +126,13 @@ This artifact is highly relevant for roles such as:
 It demonstrates both **technical capability and responsible AI craftsmanship**, essential for modern AI roles.
 
 ## 📚 References  
-- *Introduction to Machine Learning with Python*  
-- Mizou Platform Documentation  
-- IDEO / Stanford d.school — Design Thinking Methodology  
+- *Introduction to Machine Learning with Python* — Andreas C. Müller & Sarah Guido  
+  https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
+- **Mizou Platform Documentation**  
+  https://mizou.com/
+- **IDEO / Stanford d.school — Design Thinking Methodology**  
+  https://www.designkit.org/methods  
+  https://dschool.stanford.edu/resources/design-thinking-bootleg
 
 ## 🔗 Project Link  
 👉 **View Chatbot Project:**  
@@ -205,12 +209,18 @@ This artifact is relevant for:
 | **Complexity** | Shallow Models | Multi-layer Neural Networks |
 | **Example Use Case** | Spam Detection | Image Recognition |
 
-### **References**
-- *Introduction to Machine Learning with Python* – Müller & Guido  
-- Goodfellow, Bengio & Courville – *Deep Learning*  
-- MIT OpenCourseWare – Machine Learning Foundations  
-- Industry examples from Google AI & Meta AI research
+### **📚 References**
 
+- **Müller, A., & Guido, S. – *Introduction to Machine Learning with Python***  
+  https://learning.oreilly.com/library/view/introduction-to-machine/9781449369880/
+- **Goodfellow, I., Bengio, Y., & Courville, A. – *Deep Learning***  
+  https://www.deeplearningbook.org/
+- **MIT OpenCourseWare – Machine Learning Foundations**  
+  https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
+- **Google AI – Research Publications**  
+  https://ai.google/research/
+- **Meta AI Research – Papers & Publications**  
+  https://ai.meta.com/research/
 ---
 
 # 🧠 Artifact 3: Deep Learning & Neural Networks  
@@ -267,9 +277,22 @@ This artifact is highly relevant in AI education, machine learning coursework, a
 - Encourages responsible and explainable AI practices  
 
 ## 📚 References  
-- *Introduction to Machine Learning with Python*  
-- Concepts from cognitive science (Bayesian Brain Hypothesis)  
-- Standard deep learning principles as taught across academic ML courses  
+
+- **Introduction to Machine Learning with Python**  
+  *Andreas C. Müller & Sarah Guido*  
+  👉 https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/
+- **Bayesian Brain Hypothesis — Cognitive Science Concept**  
+  Overview of Bayesian inference applied to neural computation  
+  👉 https://plato.stanford.edu/entries/bayesian-brain/
+- **Deep Learning (MIT Press Book)**  
+  *Ian Goodfellow, Yoshua Bengio, Aaron Courville*  
+  👉 https://www.deeplearningbook.org/
+- **Deep Learning Specialization — Andrew Ng (Coursera)**  
+  Standard academic ML & DL teaching reference  
+  👉 https://www.coursera.org/specializations/deep-learning
+- **Machine Learning (Stanford CS229)**  
+  Foundational ML course by Andrew Ng  
+  👉 https://cs229.stanford.edu/
 
 ## 🖼️ Visual Comparison  
 ![Deep Learning Illustration](deep_learning_and_neural_networks.png)
@@ -346,10 +369,17 @@ This artifact is relevant for:
 High-quality data is the backbone of ethical, accurate, and scalable machine learning models.
 
 ## 📚 References  
-- Weekly course content and quiz material  
-- Standard ML preprocessing concepts (outlier detection, noise filtering, deduplication)  
-- Data management principles involving veracity, lineage, and monitoring  
-- General best practices in machine learning model development  
+
+- Géron, Aurélien. *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.* O’Reilly Media, 2022.  
+  https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+- Bishop, Christopher M. *Pattern Recognition and Machine Learning.* Springer, 2006.  
+  https://link.springer.com/book/10.1007/978-0-387-45528-0
+- Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron. *Deep Learning.* MIT Press, 2016.  
+  https://www.deeplearningbook.org/
+- Kuhn, Max; Johnson, Kjell. *Applied Predictive Modeling.* Springer, 2013.  
+  https://link.springer.com/book/10.1007/978-1-4614-6849-3
+- Provost, Foster; Fawcett, Tom. *Data Science for Business.* O’Reilly Media, 2013.  
+  https://www.oreilly.com/library/view/data-science-for/9781449374273/
 
 ---
 
