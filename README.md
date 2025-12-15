@@ -448,8 +448,10 @@ Key Value Points:
 ## 🖼️ Visual Comparison  
 ![Cybersecurity and IT Operations](industry1.png)
 *Cybersecurity and IT Operations*
+
 ![Healthcare: Artificial Intelligence at Work on Patients’ Clinical Notes](industry2.png)
 *Healthcare: Artificial Intelligence at Work on Patients’ Clinical Notes*
+
 ![Enterprise CRM and Customer Operations: Partner-Built AI Agents at Scale](industry3.png)
 *Enterprise CRM and Customer Operations: Partner-Built AI Agents at Scale*
 
